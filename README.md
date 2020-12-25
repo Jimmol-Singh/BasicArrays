@@ -1,3 +1,3 @@
 # BasicMovieGenreArray
 
-List of arrays so save time. =)
+List of arrays to save time. =)
